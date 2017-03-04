@@ -132,14 +132,20 @@ h4 {
     margin-bottom: 180px;
 }
 
-@media screen and (max-width:703px){
+@media screen and (max-width:771px){
+    
+    li {
+        margin: 5px;
+        margin-top: 10px;
+        font-size: 15px;
+    }
  
     .bottom {
         margin-bottom: 150px;
     }
     
     ul {
-        float:left;   
+        
     }
 }
 
