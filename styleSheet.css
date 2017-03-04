@@ -93,6 +93,8 @@ h2 {
 #aboutpic {
     float:left;
     margin-right: 20px;
+    width: 35%;
+    height: auto;
 }
 
 h3 {
@@ -115,6 +117,13 @@ h4 {
 .photo {
     float:right;
     margin-left: 15px;
+    width: 50%;
+    height: auto;
+}
+
+.banner {
+    width: 100%;
+    height: auto;
 }
 
 #farewell {
